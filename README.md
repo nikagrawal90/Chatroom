@@ -8,7 +8,7 @@ A console based chatroom using python to connect with your friends
 
 **Libraries used to implement this application :**
 - socket
-- thread
+- threading
 
 #### This application also has inbuilt langauge filter for agggressive words
  --> To add more words to be filtered out add them in a newline in language.txt
