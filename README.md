@@ -1,7 +1,6 @@
 # Python_Chatroom
 A console based chatroom to connect with your friends
 
-Don't forget to establish the server first before attempting to connect by running server.py
 - Change the server in client.py from '127.0.0.1' to IP address of machine used as server.
 - Run the server.py on the server.
 - Run the client.py on your pc.
@@ -13,3 +12,5 @@ Don't forget to establish the server first before attempting to connect by runni
 
 #### This application also has inbuilt langauge filter for agggressive words
  --> To add more words to be filtered out add them in a newline in language.txt
+
+###### Don't forget to establish the server first before attempting to connect by running server.py
