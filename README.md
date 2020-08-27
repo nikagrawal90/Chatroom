@@ -1,4 +1,4 @@
-# Python_Chatroom
+# Chatroom
 A console based chatroom to connect with your friends
 
 - Change the server in client.py from '127.0.0.1' to IP address of machine used as server.
