@@ -10,7 +10,7 @@
 - socket
 - threading
 
-#### This application also has inbuilt langauge filter for agggressive words
+### This application also has inbuilt langauge filter for agggressive words
 - To add more words to be filtered out add them in a newline in language.txt
 
-###### Don't forget to establish the server first before attempting to connect by running server.py
+*Don't forget to establish the server first before attempting to connect, by running server.py*
