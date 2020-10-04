@@ -16,7 +16,7 @@ username = list()
 # remove explicit words
 def open_file():
     try:
-        fhand = open('D:\Projects\Python Chatroom\language.txt')
+        fhand = open('language.txt')
         return fhand
     except:
         print('Language file not found')
